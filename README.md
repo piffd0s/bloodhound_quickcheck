@@ -1,7 +1,5 @@
 How to Use
 
-python3 bloodhound_parser.py
-
 python3 quickmapper.py <bloodhound json folder>
 
 Enter the path to your BloodHound JSON folder
